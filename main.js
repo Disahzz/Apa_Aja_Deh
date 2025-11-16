@@ -26,7 +26,7 @@ const messages = [
     "padahal",
     "aku cuma mau bilang",
     "kepasar beli terasi pulangnya makan kadal",
-    "i love you❤️",
+    "Happy Birthday❤️",
     "bjiirlah",
     "coba pencet tombol dibawah ini 💝"
 ];
@@ -122,5 +122,6 @@ function setupMusic() {
         document.removeEventListener('click', startMusic);
     });
 }
+
 
 document.addEventListener('DOMContentLoaded', setupMusic);
